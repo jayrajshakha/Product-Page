@@ -177,3 +177,23 @@
     background-color: yellow;
     color: black;
 }
+.buy-btn button:active{
+    background-color: green;
+    color: black;
+}
+#red{
+    accent-color: red;
+
+}#green{
+    accent-color:green;
+
+}
+#blue{
+    accent-color: blue;
+}
+#pink{
+    accent-color: purple;
+}
+.o{
+    display: none;
+}
